@@ -2,3 +2,4 @@
 echo "What is your name?"
 read name
 echo "Hello $name."
+#This line was added by Chris
